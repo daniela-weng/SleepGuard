@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sleepguard-web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "Web App/SleepGuard", "--", "--port", "5183"],
+      "port": 5183
+    }
+  ]
+}

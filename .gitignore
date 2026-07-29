@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+.Rhistory
+
+# Local Claude Code settings (personal, not shared)
+.claude/settings.local.json
+
+# Node / Vite
+node_modules/
+dist/
+*.log
+
+# Unrelated large files (not part of this project)
+video1119451617.mp4
+Celena lesson 4.pptx
+
+# Redundant binary (source already tracked unzipped)
+iOS App/SleepGuard.zip

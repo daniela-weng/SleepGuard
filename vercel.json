@@ -1,4 +1,8 @@
 {
+  "framework": "vite",
+  "installCommand": "cd 'Web App/SleepGuard' && npm ci",
+  "buildCommand": "cd 'Web App/SleepGuard' && npm run build",
+  "outputDirectory": "Web App/SleepGuard/dist",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
